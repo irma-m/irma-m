@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **irma-m/irma-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello! 👋 I'm Irma
+
+I'm a full-stack developer with experience in both front-end and back-end development. I have a Master's degree in Data Science, and I've worked on projects that combine data analysis and software development. My expertise includes technologies like Python, JavaScript, and SQL, which I use to create efficient and innovative solutions.
+
+I'm passionate about technology and always eager to learn new skills and connect with professionals in the field. I'm currently seeking new opportunities to apply my knowledge and continue growing as a developer.
+
+Feel free to check out my repositories and connect with me!
+
+🌟 **Let's build something great together!**
