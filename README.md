@@ -21,3 +21,14 @@ I'm passionate about technology and always eager to learn new skills and connect
 Feel free to check out my repositories and connect with me!
 
 🌟 **Let's build something great together!**
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+## 🚀 Featured Projects
+- [📊 Custom Curriculum System](https://irma-m.github.io/sistema-irma/): Developed a web-based system for personalized curriculum design using HTML, JavaScript, CSS, and Bootstrap.
+- [💼 360° Performance Evaluation System](https://github.com/UniversidadCristobalColon/integrador-ago-dic-2019): Collaborated on a team project for a performance evaluation system with PHP, JavaScript, SQL, and AJAX.
+
+
