@@ -31,4 +31,15 @@ Feel free to check out my repositories and connect with me!
 - [📊 Custom Curriculum System](https://irma-m.github.io/sistema-irma/): Developed a web-based system for personalized curriculum design using HTML, JavaScript, CSS, and Bootstrap.
 - [💼 360° Performance Evaluation System](https://github.com/UniversidadCristobalColon/integrador-ago-dic-2019): Collaborated on a team project for a performance evaluation system with PHP, JavaScript, SQL, and AJAX.
 
+## 🎨 Hobbies & Interests
+- 📽️ Watching movies & TV series
+- ✨ Experimenting with new tech trends
+- 🎨 Passionate about combining creativity & technology.
+- 🐾 I have a fashionable Pomeranian who is also a style ambassador!
+
+## 📫 Let's Connect!
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)-->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irma-m)
+
+
 
