@@ -25,7 +25,7 @@ Here are some of the technologies and tools I've worked with:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![GithubPages](https://img.shields.io/badge/github%20pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
@@ -37,6 +37,13 @@ Here are some of the technologies and tools I've worked with:
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Asana](https://img.shields.io/badge/asana-%F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) 
+![AJAX](https://img.shields.io/badge/AJAX-0077B5?style=for-the-badge&logo=ajax&logoColor=white)
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Visio](https://img.shields.io/badge/Visio-5B9BD5?style=for-the-badge&logo=microsoft&logoColor=white)
+![Bizagi](https://img.shields.io/badge/Bizagi-3D97F8?style=for-the-badge&logo=bizagi&Color=white)
+
 
 ## 🚀 Featured Projects
 - [📊 Custom Curriculum System](https://irma-m.github.io/sistema-irma/): Developed a web-based system for personalized curriculum design using HTML, JavaScript, CSS, and Bootstrap.
