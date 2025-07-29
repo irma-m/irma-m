@@ -8,7 +8,8 @@ Feel free to check out my repositories and connect with me!
 
 🌟 **Let's build something great together!**
 
-[![](https://visitcount.itsvg.in/api?id=irma-m&icon=4&color=10)](https://visitcount.itsvg.in)
+[![Profile views](https://komarev.com/ghpvc/?username=irma-m&color=FFC0CB)](https://github.com/irma-m)
+
 
 ## 🛠️ Tech Stack
 Here are some of the technologies and tools I've worked with:
