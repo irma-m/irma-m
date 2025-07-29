@@ -48,6 +48,7 @@ Here are some of the technologies and tools I've worked with:
 ## 🚀 Featured Projects
 - [📊 Custom Curriculum System](https://irma-m.github.io/sistema-irma/): Developed a web-based system for personalized curriculum design using HTML, JavaScript, CSS, and Bootstrap.
 - [💼 360° Performance Evaluation System](https://github.com/UniversidadCristobalColon/integrador-ago-dic-2019): Collaborated on a team project for a performance evaluation system with PHP, JavaScript, SQL, and AJAX.
+- [🐶 Digital Veterinary Record](https://github.com/irma-m/cartilla): A mobile app developed with React Native and Expo to keep track of my dogs' vaccinations, baths, medications, and deworming. Includes local storage with AsyncStorage, pet selection, and automatic date calculation.
 
 ## 🎨 Hobbies & Interests
 - 📽️ Watching movies & TV series
